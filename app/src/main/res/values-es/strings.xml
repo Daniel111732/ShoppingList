@@ -5,4 +5,9 @@
     <string name="confirm_message">¿ Está seguro que quiere eliminar \'%1$s\' ?</string>
     <string name="hint">Nuevo Item</string>
     <string name="remove">Eliminar</string>
+    <string name="cannot_read">No se han podido cargar los datos</string>
+    <string name="cannot_write">No se han podido guardar los datos</string>
+    <string name="clear_all">Eliminar todos los ítems</string>
+    <string name="clear_checked">Eliminar los elementos seleccionados</string>
+    <string name="confirm_clear_all">¡ Está seguro que desea eliminar todos los elementos ?</string>
 </resources>
